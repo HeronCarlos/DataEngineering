@@ -1,8 +1,8 @@
 ![](https://github.com/HeronCarlos/DataScience/blob/master/img/dataengineering_githubrepository.png)
 
-Repositório de Projetos e Analises de Dados.
+Repositório de Projetos Engenharia de Dados.
 
-Neste ambiente você encontrara materiais relacionados ao aprendizado, desenvolvimento em Data Science, Machine Learning utilizando modelos estatisticos, linguagens ( R, Python, etc... ).
+Neste ambiente você encontrara materiais relacionados ao aprendizado, desenvolvimento em Data Engineering.
 
 ------------
 
